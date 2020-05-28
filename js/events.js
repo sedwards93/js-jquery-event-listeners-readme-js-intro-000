@@ -25,4 +25,6 @@ $(document).ready(function(){
 getIt()
 
 framIt()
+
+pressIt ()
 });
